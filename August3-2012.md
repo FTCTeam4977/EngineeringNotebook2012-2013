@@ -12,4 +12,4 @@ The code tracks the module rollover by looking at the difference between the las
 The braces that were designed to support the small C brackets we originally used to mount the modules (See July 7th, 2012) were repurposed to provide support for the C-channel that is now used. There was minor flex in the channel, leading to slip in the module's rotation. The braces provide a solid support to keep this from occuring.
 
 ### Assist
-We provided coding help to the FRC team started by MASH.
+We provided Java coding help to the FRC team started by MASH. Specificly, we assisted in getting their drivetrain running.
