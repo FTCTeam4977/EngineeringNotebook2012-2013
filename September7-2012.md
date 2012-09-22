@@ -1,5 +1,5 @@
 ### Meeting Goals:
-*Prepare for Kick-Off
+* Prepare for Kick-Off
 
  
 
