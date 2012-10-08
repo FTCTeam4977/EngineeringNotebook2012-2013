@@ -1,5 +1,5 @@
 ### Meeting Goals:
-* Assist M*A*S*H with camera and coding for FRC
+* Assist M/*A/*S/*H with camera and coding for FRC
 * Design brackets for lift
 * Order swerve upgrade components
 * Design LED circuitry
