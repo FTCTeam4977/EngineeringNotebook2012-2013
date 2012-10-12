@@ -5,7 +5,7 @@
 * Design LED circuitry
 
 ### MASH
-We assisted MASH with  connecting their camera to their robot, and ramping their motor controllers to reduce the jerk when they accelerate suddenly.
+We assisted M\*A\*S\*H with  connecting their camera to their robot, and ramping their motor controllers to reduce the jerk when they accelerate suddenly.
 
 ### Design lift brackets
 The final design for the metal lift brackets was completed, with a top and bottom bracket to fit the respective hole patterns on the glides.
