@@ -14,5 +14,5 @@ The final design for the metal lift brackets was completed, with a top and botto
 We ordered steel 5mm axles to replace the standard tetrix alloy axles on the swerve, since the steel will withstand the large stresses much better than the alloy. It also allows us to drill out the axle to create a point for the set screw to achor into.
 
 ### Design LED circuitry
-We worked on creating a circuit that would allow us to control a series of LED strips from the prototyping board, while powering them with main battery power. This must be done to signal the operator when the robot possesses a heavy ring, 
-and the isolation between board and power is required by the rules.
+We worked on creating a circuit that would allow us to control a series of LED strips from the prototyping board, while powering them with main battery power. This must be done to signal the operator when the robot encounters a certain condition, such as possessing a heavy ring. 
+The isolation between board and power is required by the rules, so our circuit will contain an opti-isolator, which is an allowed mechanism for signal transmission, and much faster than a relay. Signal speed is important to this design because the signal must be sent to change the LED colors to the correct values.
