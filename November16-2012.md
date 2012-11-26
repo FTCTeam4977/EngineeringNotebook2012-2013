@@ -1,6 +1,4 @@
 ### Meeting Goals:
-* Brand all team members
-* Happiness and the pursuit of liberty
 * Frame reinforcement
 * Final lift installation
 * Build the claw
