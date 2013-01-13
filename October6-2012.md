@@ -15,4 +15,4 @@ example in Autodesk Inventor, so that we could see how much room we had to const
 We recieved the waterjet-cut plates for the rollerclaw, made from 1/8 inch steel. The accuracy of the waterjet meant that they fit exactly to the tetrix c-channel.
 
 ### Website
-We worked on our new team website, improving the overall look, and pushing the 2.0 site to the test web adress of dev.team4977.org
+Work began on our new revised website, with the objective of pushing it live before our first competition.

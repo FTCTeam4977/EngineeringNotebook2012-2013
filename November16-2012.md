@@ -10,4 +10,3 @@ Due to the amount of stress the winch will create, the robot frame needed to be 
 The middle segment of the lift was inserted into the frame.
 
 ### Build the Claw
-The pulleys for the claw were lathed in aluminum, acryllic, and PVC.
