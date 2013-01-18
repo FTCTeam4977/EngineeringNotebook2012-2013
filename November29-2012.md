@@ -9,7 +9,7 @@ One solution is to have the steering code avoid moving the modules to the rollov
 After some brainstorming, we found the ideal solution to our issue. Our idea involves the use of both the potentiometers and incremental TETRIX encoders on the rotation motors. Essentially, the potentiometer position is converted to the scale of the TETRIX encoders using a linear relation, then the TETRIX encoders increment the value to obtain an absolute and gapless position.
 We also added a zeroing stage where the robot will rotate the modules as close to the modpoint of the potentiometers as possible to ensure accuracy before calculating the encoder offset.
 
-Below is the revised initModuleSet function, which is implemented in LordSwerve.c
+Below is the revised initModuleSet function, which is implemented in LordSwerve.c 
 
 <pre>
 void initModuleSet(SwerveSide side, tMotor turnMotor, int potOffset, float P, float I, float D, tMotor driveMotor)
